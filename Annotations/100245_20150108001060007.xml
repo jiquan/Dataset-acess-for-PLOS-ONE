@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>Polyp</folder>
+    <filename>100245_20150108001060007.jpg</filename>
+    <source>
+        <database>Gastroscopy Database</database>
+        <annotation>Polyp</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>ZhangXu</name>
+    </owner>
+    <size>
+        <width>565</width>
+        <height>485</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Polyp</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>325</xmin>
+            <ymin>406</ymin>
+            <xmax>394</xmax>
+            <ymax>464</ymax>
+        </bndbox>
+    </object>
+</annotation>
